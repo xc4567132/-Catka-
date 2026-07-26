@@ -1,5 +1,5 @@
-<h1 align="center">Catka自动打卡</h1>
-<p align="center"><strong>Catka自动打卡</strong></p>
+<h1 align="center">实习打卡</h1>
+<p align="center"><strong>实习打卡</strong></p>
 
 <div align="center">
     <img alt="Maven" src="https://raster.shields.io/badge/Maven-3.8.1-red.svg"/>
@@ -11,21 +11,21 @@
 
 ### 联系作者：XuxingChen___
  
-###  QQ交流群：907920139
 
 ### 导航 🧭
 
-- **[CATka打卡官网](https://catka666.shop/)**
+- **[打卡官网](https://catka666.shop/)**
 
 ### 支持平台 🎉
 
 1. **职校家园**
 2. **工学云**
 3. **习讯云**
-4. **校友帮**
+4. **校友邦**
 5. **学习通**
 6. **黔职通**
 7. **云实习助手**
+8等等..........................
 
 ### 主要功能 🙋
 
